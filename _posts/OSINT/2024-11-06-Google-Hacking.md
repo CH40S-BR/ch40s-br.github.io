@@ -42,7 +42,7 @@ Para realizar buscas eficientes com Google Hacking, é fundamental conhecer e ut
 
 Esses operadores podem ser combinados para refinar ainda mais os resultados, tornando a busca por informações específicas mais precisa.
 
-![image.png](/assets/images/Vidar-Stealer-Camapign/1.png)
+![image.png](/assets/images/Google-Hacking/image.png)
 
 # Exemplos Práticos de Google Hacking
 Abaixo estão alguns exemplos de como os operadores podem ser utilizados para encontrar informações sensíveis:
